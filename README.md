@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate on projects using Data Science for climate change.
 
 
+
 ![Elise's GitHub stats](https://github-readme-stats-m1facvyc8-elise-chin-adway.vercel.app/api?username=elise-chin-adway&show_icons=true&hide_border=true&count_private=true)
 
 ---
@@ -18,6 +19,10 @@
 [<img alt="mail" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mail-dot-ru.svg"/>][mail]
 [<img alt="linkedin" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg"/>][linkedin]
 
+</br>
+</br>
+
+😄 You can check my [personal account](https://github.com/elise-chin).
 
 [mail]: mailto:elise.chin@adway-conseil.com
 [linkedin]: https://fr.linkedin.com/in/elise-chin
